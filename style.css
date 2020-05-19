@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background: lightblue
+}
+
+.container{
+    background: lightblue;
+    margin-top: 100px;
+}
+
+.button{
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    width: 80px;
+    padding: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.input{
+    padding: 4px;
+    outline: none;
+    border: none;
+    background: none;
+    border-bottom: 0.5px solid black;
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
